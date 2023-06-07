@@ -46487,7 +46487,7 @@ h.a.toString
 q=A.a5("Church Database",g,g,g,A.aR(g,g,g,g,g,g,g,g,g,g,g,30,g,g,B.es,g,g,!0,g,g,g,g,g,g,g,g),g,g)
 p=A.aDJ(B.m6,1)
 o=A.a5("St. Benito Menni Catholic Church",g,g,g,A.aR(g,g,g,g,g,g,g,g,g,g,g,15,g,g,B.es,g,g,!0,g,g,g,g,g,g,g,g),g,g)
-n=A.a5("Please Login",g,g,g,g,g,g)
+n=A.a5("Login",g,g,g,g,g,g)
 m=h.ajY()
 l=h.aoi()
 k=A.mV(g,g,new A.c1(B.cE,t.h9),g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g)
